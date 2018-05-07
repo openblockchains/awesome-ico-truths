@@ -1,5 +1,8 @@
 
-# Awsome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies 
+_The Art of the Steal - The Scammers' Big Lies_
+
+# Awsome Initial Coin Offerings (ICO) Truths 
+
 
 
 ## Big Lie #1 - ICO tokens are like bitcoins
