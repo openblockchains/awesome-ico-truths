@@ -1,7 +1,7 @@
 
 _The Art of the Steal - The Scammers' Big Lies_
 
-# Awsome Initial Coin Offerings (ICO) Truths 
+# Awesome Initial Coin Offerings (ICO) Truths 
 
 
 
@@ -208,7 +208,7 @@ Thanks for the free money and hodling the bag!
 ## Big Lie #6 - ICO tokens are decentralized like bitcoins 
 
 
-ICO tokens are centralzed tokens managed by a single company on the Ethereum blockchain.
+ICO tokens are centralized tokens managed by a single company on the Ethereum blockchain.
 It takes five / twenty / ninety minute to issue / print your own tokens on the Ethereum blockchain
 using the Token #20 standard. 
 To create your very own token in five minutes you need four pieces:
