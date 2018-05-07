@@ -89,6 +89,9 @@ Making 50 000% Returns on ICO "Investments" - Possible? Spoiler: No. It's bullsh
 Buyer beware! If it sounds too good to be true, - surprise, surprise - it is.
 The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoon.com/investors-are-making-50-000-returns-on-icos-32432bc741d1) by Coin and Crypto.
 
+![](i/tweet-conda-austria.png)
+
+
 > Early investment is paying off big time
 >
 > The average return on the S&P is 10%. Over the last year bitcoin has seen unprecedented returns of 1000%. 
@@ -103,6 +106,13 @@ The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors a
 > so be prepared to lose [all] what you invest [gamble], 
 > even if the landscape is optimistic. [To the moon! Thanks for your money and hodling the bag!] 
 
+
+![](i/tweet-hero-iib.png)
+
+
+From the Savedroid White Paper:
+
+![](i/savedroid-ico-ii.png)
 
 
 
