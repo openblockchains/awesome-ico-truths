@@ -86,11 +86,14 @@ Welcome to the world of business! Buyer beware!
 
 Making 50 000% Returns on ICO "Investments" - Possible? Spoiler: No. It's bullshit / a scam.
 
+![](i/tweet-hero-iib.png)
+
+
 Buyer beware! If it sounds too good to be true, - surprise, surprise - it is.
 The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoon.com/investors-are-making-50-000-returns-on-icos-32432bc741d1) by Coin and Crypto.
 
-![](i/tweet-conda-austria.png)
 
+![](i/tweet-conda-austria.png)
 
 > Early investment is paying off big time
 >
@@ -105,9 +108,6 @@ The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors a
 > The majority of startups fail, even well funded ones,
 > so be prepared to lose [all] what you invest [gamble], 
 > even if the landscape is optimistic. [To the moon! Thanks for your money and hodling the bag!] 
-
-
-![](i/tweet-hero-iib.png)
 
 
 From the Savedroid White Paper:
@@ -160,7 +160,7 @@ and run off with the free easy money. Your savings are gone
 These serious honest succesful businessmen/women "advisors" (and A-B-C-celebrities)
 are smiling on the promotion brochure (white paper) because the get paid big time
 without (shame on you!) disclosing that they are paid shills.
-A usual endorsment "fee" or gift is about $50 000 or $100 000 or more. Free easy money.
+A usual endorsement "fee" or gift is about $50 000 or $100 000 or more. Free easy money.
 
 
 > We set-up a system [free token "bounty" ICO pumping program] where our community members & investors were rewarded
