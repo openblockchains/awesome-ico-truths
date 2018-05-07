@@ -117,7 +117,7 @@ From the Savedroid White Paper:
 
 
 
-## Big Lie #4 - ICO White Papers and Roadmaps with Milestone are like "Due Diligence" Inverstor Prospectus
+## Big Lie #4 - ICO White Papers and Roadmaps with Milestone are like "Due Diligence" Investor Prospectus
 
 ICO White Papers are fiction. Wishful thinking.
 
