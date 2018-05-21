@@ -233,9 +233,52 @@ A free token market certified by Austrian school economics. Yeah, sure.
 
 
 
+## Articles
+
+[Initial Coin Scams](https://www.project-syndicate.org/commentary/ico-cryptocurrency-scams-by-nouriel-roubini-2018-05)
+by Nouriel Roubini, Project Syndicate, 10 May 2018 -- There are now nearly 1 600 cryptocurrencies, and the number continues to rise. It is time to start recognizing their issuers' utopian rhetoric for what it is: self-serving nonsense meant to separate credulous investors from their hard-earned savings.
+
+
+[Buyer Beware: Hundreds of Bitcoin Wannabes Show Hallmarks of Fraud](https://www.wsj.com/articles/buyer-beware-hundreds-of-bitcoin-wannabes-show-hallmarks-of-fraud-1526573115)
+by Shane Shifflett and Coulter Jones, Wall Street Journal (WSJ), 17 May 2018  -- A Wall Street Journal analysis of 1 450 cryptocurrency offerings reveals rampant plagiarism, identity theft & promises of improbable returns.
+
+
+[The U.S. Securities and Exchange Commission (SEC) Has an Opportunity You Won't Want to Miss: Act Now!](https://www.sec.gov/news/press-release/2018-88), 16 May 2018 --
+If you've ever been tempted to buy into a hot investment opportunity the Securities and Exchange Commission (SEC) has a deal for you.
+Check out the SEC's Office of Investor Education and Advocacy's initial coin offering (ICO) that touts an all too good to be true investment opportunity.
+HoweyCoins.com mimics a bogus coin offering to educate investors
+about what to look for before they invest in a scam.
+
+
+
+
+## Best of Disclaimers - Thank You For Your Free Money and HODLing the Bag! 
+
+
+### Alphachain - Alphaville, Financial Times
+
+> 1. Alphaville may or may not be inclined to build the Alphachain network. This paper does not represent an
+>    obligation, promise, duty, suggestion or implied contract to do so.
+> 2. The Alphachain tokens do not have any rights, uses, purpose, attributes, functionalities or features, express
+>    or implied, including, without limitation, any uses, purpose, attributes, functionalities or features on the Alphachain
+>    Platform.
+> 3. The proceeds of the Alphachain initial coin offering may be used for any purpose, stated or otherwise.
+> 4. Alphachain tokens are not securities, commodities, swaps on either securities or commodities, or similar financial
+>    instruments. They are not designed for investment or speculative purposes and should not be considered as a type of
+>    investment. The tokens are not available for purchase by the residents of any country.
+> 5. The value of tokens may go up, up a lot, up a great deal, or up a tremendous amount. It is also possible they
+>    may not, or be subject to diminished prices. No prediction or forecast should be inferred, tendered or predicated on any
+>    of the aforementioned statements.
+> 6. Alphachain tokens are not emoluments.
+>
+> (Source: Alphachain White Paper)
+
+
+
+
 ## More
 
-See the [Get Rich Quick (Business) Blockchain Bible](https://github.com/openblockchains/get-rich-quick-bible) -
+See the [Get Rich Quick (Business) Blockchain Bible](https://github.com/bitsblocks/get-rich-quick-bible) -
 The Secrets of Free Easy Money -
 From Zero to Twenty Million in Three Weeks - To the Moon - Fast Exit - To the Beach.
 
