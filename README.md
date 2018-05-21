@@ -235,19 +235,21 @@ A free token market certified by Austrian school economics. Yeah, sure.
 
 ## Articles
 
-[Initial Coin Scams](https://www.project-syndicate.org/commentary/ico-cryptocurrency-scams-by-nouriel-roubini-2018-05)
-by Nouriel Roubini, Project Syndicate, 10 May 2018 -- There are now nearly 1 600 cryptocurrencies, and the number continues to rise. It is time to start recognizing their issuers' utopian rhetoric for what it is: self-serving nonsense meant to separate credulous investors from their hard-earned savings.
+[**Initial Coin Scams**](https://www.project-syndicate.org/commentary/ico-cryptocurrency-scams-by-nouriel-roubini-2018-05)
+by Nouriel Roubini, Project Syndicate, 10 May 2018 -- 
+_There are now nearly 1 600 cryptocurrencies, and the number continues to rise. It is time to start recognizing their issuers' utopian rhetoric for what it is: self-serving nonsense meant to separate credulous investors from their hard-earned savings._
 
 
-[Buyer Beware: Hundreds of Bitcoin Wannabes Show Hallmarks of Fraud](https://www.wsj.com/articles/buyer-beware-hundreds-of-bitcoin-wannabes-show-hallmarks-of-fraud-1526573115)
-by Shane Shifflett and Coulter Jones, Wall Street Journal (WSJ), 17 May 2018  -- A Wall Street Journal analysis of 1 450 cryptocurrency offerings reveals rampant plagiarism, identity theft & promises of improbable returns.
+[**Buyer Beware: Hundreds of Bitcoin Wannabes Show Hallmarks of Fraud**](https://www.wsj.com/articles/buyer-beware-hundreds-of-bitcoin-wannabes-show-hallmarks-of-fraud-1526573115)
+by Shane Shifflett and Coulter Jones, Wall Street Journal (WSJ), 17 May 2018  -- 
+_A Wall Street Journal analysis of 1 450 cryptocurrency offerings reveals rampant plagiarism, identity theft & promises of improbable returns._
 
 
-[The U.S. Securities and Exchange Commission (SEC) Has an Opportunity You Won't Want to Miss: Act Now!](https://www.sec.gov/news/press-release/2018-88), 16 May 2018 --
-If you've ever been tempted to buy into a hot investment opportunity the Securities and Exchange Commission (SEC) has a deal for you.
+[**The U.S. Securities and Exchange Commission (SEC) Has an Opportunity You Won't Want to Miss: Act Now!**](https://www.sec.gov/news/press-release/2018-88), 16 May 2018 --
+_If you've ever been tempted to buy into a hot investment opportunity the Securities and Exchange Commission (SEC) has a deal for you.
 Check out the SEC's Office of Investor Education and Advocacy's initial coin offering (ICO) that touts an all too good to be true investment opportunity.
 HoweyCoins.com mimics a bogus coin offering to educate investors
-about what to look for before they invest in a scam.
+about what to look for before they invest in a scam._
 
 
 
