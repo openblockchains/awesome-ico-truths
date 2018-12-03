@@ -1,4 +1,4 @@
-# Awesome Initial Coin Offerings (ICO) Truths 
+# Awesome Initial Coin Offerings (ICO) Truths
 
 
 _The Art of the Steal - The Scammers' Big Lies_
