@@ -2,3 +2,8 @@
 ## note: use same title as page to avoid duplicate (for default primer theme)
 title: "Awesome Initial Coin Offerings (ICO) Truths"
 
+exclude:
+- TOKENS
+- .gitattributes
+- LICENSE.md
+
